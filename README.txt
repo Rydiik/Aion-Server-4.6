@@ -1,5 +1,16 @@
-This is a Subversion repository; use the 'svnadmin' and 'svnlook' 
-tools to examine it.  Do not add, delete, or modify files here 
-unless you know how to avoid corrupting the repository.
+Aion 4.6 EU
 
-Visit http://subversion.apache.org/ for more information.
+- integrated Mobrate (config\main: rates.properties)
+
+- Admin Panel (Shift+F1)
+
+- (Optional) Event Engine (orginal by flashman) (NEW)
+
+- (Optional) XML Drop Files (NEW)
+
+-------------------------------------------------------------------------------
+
+We are looking for People to continue to XML and JAVA
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
